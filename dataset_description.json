@@ -1,0 +1,14 @@
+{
+    "Name": "Rotation-tolerant representations elucidate the time course of high-level object processing",
+    "BIDSVersion": "1.6.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Denise Moerel",
+        "Tijl Grootswagers",
+        "Amanda K. Robinson",
+        "Patrick Engeler",
+        "Alex O. Holcombe",
+        "Thomas A. Carlson"
+    ],
+    "License": "CC0"
+}
