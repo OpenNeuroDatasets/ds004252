@@ -12,7 +12,7 @@
     ],
     "License": "CC0",
     "Acknowledgements": "The authors acknowledge the University of Sydney HPC service for providing High Performance Computing resources.",
-    "DatasetDOI": "doi:10.18112/openneuro.ds004252.v1.0.1",
+    "DatasetDOI": "doi:10.18112/openneuro.ds004252.v1.0.2",
     "ReferencesAndLinks": [
         "Moerel D., Grootswagers T., Robinson A.K., Engeler P., Holcombe A.O., Carlson T.A. (2022). Rotation-tolerant representations elucidate the time-course of high-level object processing. PsyArXiv, wp73u",
         "Pre-print: https://doi.org/10.31234/osf.io/wp73u",
