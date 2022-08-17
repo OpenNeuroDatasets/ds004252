@@ -10,5 +10,6 @@
         "Alex O. Holcombe",
         "Thomas A. Carlson"
     ],
-    "License": "CC0"
+    "License": "CC0",
+    "Acknowledgements": "The authors acknowledge the University of Sydney HPC service for providing High Performance Computing resources."
 }
