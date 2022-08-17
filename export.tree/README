@@ -1,7 +1,0 @@
-Note: only the data for participant 1 has been uploaded. The rest of the dataset will be released upon publication. 
-
-The main folder contains the raw EEG data in standard bids format.  
-
-The ‘derivatives’ folder contains the pre-processed & epoched EEG data, formatted in line with cosmomvpa.
-
- 
