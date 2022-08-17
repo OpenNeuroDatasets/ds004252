@@ -11,5 +11,6 @@
         "Thomas A. Carlson"
     ],
     "License": "CC0",
-    "Acknowledgements": "The authors acknowledge the University of Sydney HPC service for providing High Performance Computing resources."
+    "Acknowledgements": "The authors acknowledge the University of Sydney HPC service for providing High Performance Computing resources.",
+    "DatasetDOI": "doi:10.18112/openneuro.ds004252.v1.0.0"
 }
